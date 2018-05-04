@@ -266,6 +266,10 @@ Run the PHP web server:
 php -S localhost:8081
 ```
 
+```bash
+php -S 0.0.0.0:8081
+```
+
 On windows, you can use [XAMPP](https://www.apachefriends.org/index.html)
 # 7. Using the todo list application
 
